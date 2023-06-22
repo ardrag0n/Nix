@@ -106,7 +106,6 @@
       trash-cli
       intel-gpu-tools
       gnome.gedit
-      spicetify-cli
     ];
   };
 
